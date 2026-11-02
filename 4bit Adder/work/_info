@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/4bit Adder
+vadder
+Z1 !s110 1793443928
+!i10b 1
+!s100 hY0NkImdAcPoVZ];7cjcl2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IH5ddZ:L4k?PU;db>UCNGC3
+R0
+w1793443669
+84bit_adder.v
+F4bit_adder.v
+!i122 0
+L0 2 23
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793443928.000000
+!s107 4bit_adder.v|4bit_adder_testbench.v|
+Z6 !s90 -reportprogress|300|4bit_adder_testbench.v|4bit_adder.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_adder
+R1
+!i10b 1
+!s100 kO:7:^jR963WXdB;;k[Ki0
+R2
+IfZFgG@?KZZ21SQl`hEH0V1
+R0
+w1793443739
+84bit_adder_testbench.v
+F4bit_adder_testbench.v
+!i122 0
+L0 4 36
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 4bit_adder.v|4bit_adder_testbench.v|
+R6
+!i113 1
+R7
