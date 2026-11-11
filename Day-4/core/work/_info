@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Day-4/core
+vriscv_5stage
+Z1 !s110 1794395520
+!i10b 1
+!s100 :2L`H_0jXn@Sg>MWV3Bl`1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<U:hCBnImVT80hkWo]U@K1
+R0
+w1794395120
+8Design_File.v
+FDesign_File.v
+!i122 1
+L0 4 522
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794395520.000000
+!s107 Design_File.v|Testbench.v|
+Z6 !s90 -reportprogress|300|Testbench.v|Design_File.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_riscv_5stage
+R1
+!i10b 1
+!s100 X`]F[:l3Il<bomRJP^J^^2
+R2
+IR]9L6iK0z]l5Ti6g2FHA[1
+R0
+w1794395151
+8Testbench.v
+FTestbench.v
+!i122 1
+L0 4 201
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 Design_File.v|Testbench.v|
+R6
+!i113 1
+R7
