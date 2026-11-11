@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Day-2/Core/Vending Machine
+vvending
+Z1 !s110 1794396070
+!i10b 1
+!s100 oTMN1LC5aZJ^;h<16hGOh1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii9=i;0fFJIzCTR2cAeUUU2
+R0
+w1794395981
+8design.v
+Fdesign.v
+!i122 0
+L0 6 84
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794396070.000000
+!s107 testbench.v|design.v|
+Z6 !s90 -reportprogress|300|design.v|testbench.v|
+!i113 1
+Z7 tCvgOpt 0
+vvending_tb
+R1
+!i10b 1
+!s100 b8]]5C;n:NShbRXoi;GJ00
+R2
+If4m[:G=QlzL[jF:7gz>TT1
+R0
+w1794395995
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 2 101
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 testbench.v|design.v|
+R6
+!i113 1
+R7
