@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Priority Encoder
+vdecoder_3to8
+Z1 !s110 1794200655
+!i10b 1
+!s100 0lAPz4cUnTQda]L[^^kXf1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoHEcJD:62UZ>k^14MV>O=0
+R0
+w1794200556
+8design-2.v
+Fdesign-2.v
+!i122 0
+L0 1 9
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794200655.000000
+!s107 design-2.v|design.v|testbench.v|
+Z6 !s90 -reportprogress|300|testbench.v|design.v|design-2.v|
+!i113 1
+Z7 tCvgOpt 0
+vencoder_decoder_tb
+R1
+!i10b 1
+!s100 Xf4j4U2F9c?J7U0=bh4ij1
+R2
+IP03Lf8cUP:GYeC:XVZz]<2
+R0
+w1794200591
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 3 101
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 design-2.v|design.v|testbench.v|
+R6
+!i113 1
+R7
+vpriority_encoder_casez
+R1
+!i10b 1
+!s100 =4Qcc_K6NlePX5Hleo4QC2
+R2
+I=OnL7G33SnLP9f6JSO8:70
+R0
+Z9 w1794200526
+Z10 8design.v
+Z11 Fdesign.v
+!i122 0
+L0 1 25
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vpriority_encoder_if
+R1
+!i10b 1
+!s100 _dc:g<Z[GJl1jm>0:NRR?3
+R2
+IQJ<DgeaP8C]I8;iHF[NYM2
+R0
+R9
+R10
+R11
+!i122 0
+L0 27 23
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

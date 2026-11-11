@@ -1,0 +1,21 @@
+
+module 16bit_Instruction_Decoder_tb;
+reg [15:0] instruction;
+wire [1:0] operation;
+wire [2:0] r2;
+wire [2:0] r1;
+wire [2:0] r0;
+
+reg[15:0] i;
+initial
+begin
+$monitor("operation code =%b, r2=%b, r1=%b, r0=%b, time=%t", operation, r2, r1, r0, $time);
+for(i=0;i<=32;i=i+1)
+begin
+instruction=i;
+end
+$finish;
+end
+
+endmodule
+

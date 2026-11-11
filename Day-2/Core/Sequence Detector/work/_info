@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Day-2/Core/Sequence Detector
+vseq_mealy
+Z1 !s110 1794201469
+!i10b 1
+!s100 0jFiTYk@Y2[9WlV6R;9<n2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2[=9WfiGoikPTUf9Cfzhz2
+R0
+w1794201405
+8design-2.v
+Fdesign-2.v
+!i122 0
+L0 1 32
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794201469.000000
+!s107 design-2.v|design-1.v|testbench.v|
+Z6 !s90 -reportprogress|300|testbench.v|design-1.v|design-2.v|
+!i113 1
+Z7 tCvgOpt 0
+vseq_moore
+R1
+!i10b 1
+!s100 E4Q2R^0kGOOgROn0I;9X22
+R2
+I2FaQN]^nO9AVeBdS^PT;K3
+R0
+w1794201385
+8design-1.v
+Fdesign-1.v
+!i122 0
+L0 1 34
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 design-2.v|design-1.v|testbench.v|
+R6
+!i113 1
+R7
+vseq_tb
+R1
+!i10b 1
+!s100 Sbc=WV01BQZLNia<4K[EM3
+R2
+ILE003;fb5M?c1eVohP<QG3
+R0
+w1794201429
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 3 100
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

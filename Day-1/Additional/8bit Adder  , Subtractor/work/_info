@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/8bit Adder  , Subtractor
+vadder_sub
+!s110 1794200116
+!i10b 1
+!s100 o6[]iUL]`1ZEQTnMNZBAH1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IB3e^OS0J_IJka;Slz;]1<0
+R0
+w1794199973
+8design-2.v
+Fdesign-2.v
+!i122 1
+L0 1 31
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z4 !s108 1794200115.000000
+!s107 design-2.v|design-1.v|testbench.v|
+Z5 !s90 -reportprogress|300|testbench.v|design-1.v|design-2.v|
+!i113 1
+Z6 tCvgOpt 0
+vadder_sub_tb
+Z7 !s110 1794200115
+!i10b 1
+!s100 H_>:Q3VgAA6AekWPPgENL1
+R1
+InMI1<NagW^GPMMH[cBF0F3
+R0
+w1794200005
+8testbench.v
+Ftestbench.v
+!i122 1
+L0 3 106
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z8 !s107 design-2.v|design-1.v|testbench.v|
+R5
+!i113 1
+R6
+vfull_adder
+R7
+!i10b 1
+!s100 jR7fjZ:d4RPfhHL5O[32B2
+R1
+I2cK_2cR`L4g_7Wg_klL1R0
+R0
+w1794199952
+8design-1.v
+Fdesign-1.v
+!i122 1
+L0 1 12
+R2
+R3
+r1
+!s85 0
+31
+R4
+R8
+R5
+!i113 1
+R6

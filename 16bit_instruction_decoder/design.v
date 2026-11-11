@@ -1,0 +1,11 @@
+module Instruction_Decoder(input wire [15:0] instruction, output reg [1:0] operation , output reg [2:0] r2,r1,r0);
+
+	always @(*)
+	begin
+	operation=instruction[15:14];
+	r2=instruction[13:11];
+	r1=instruction[10:8];
+	r0=instruction[7:5];
+	end
+endmodule
+	
