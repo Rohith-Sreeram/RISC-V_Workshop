@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Day-3/Additional/Instruction Coverage Matrix
+vriscv_2stage
+Z1 !s110 1794397558
+!i10b 1
+!s100 `^<b7M7Zdo5Mif8@MGEjI3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I113Zd3A3BbBDfMJD8JOKQ3
+R0
+w1794397472
+8design.v
+Fdesign.v
+!i122 0
+L0 4 207
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794397557.000000
+!s107 testbench.v|design.v|
+Z6 !s90 -reportprogress|300|design.v|testbench.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_riscv_2stage
+R1
+!i10b 1
+!s100 igV[1kWF;8cPJI^3^jiW@1
+R2
+IfgLgI8DhWWP_SoB1H<R@Q3
+R0
+w1794397543
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 4 351
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 testbench.v|design.v|
+R6
+!i113 1
+R7
