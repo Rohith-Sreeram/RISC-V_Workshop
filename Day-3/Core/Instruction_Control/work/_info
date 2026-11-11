@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rohit/Documents/FPGA/Model Sim/Projects/Day-3/Core/Instruction_Control
+vriscv_2stage
+Z1 !s110 1794398842
+!i10b 1
+!s100 3K<j8@d3ZXc=Y7:anNQGO0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic4[^iom_4nl0BQM?G9TVZ2
+R0
+w1794398674
+8design.v
+Fdesign.v
+!i122 0
+L0 15 197
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794398842.000000
+!s107 design.v|testbench.v|
+Z6 !s90 -reportprogress|300|testbench.v|design.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_riscv_2stage
+R1
+!i10b 1
+!s100 O@aTD=gjH5maNPe4k62[O0
+R2
+I8eD9061^0dPB_hKc<Hh:21
+R0
+w1794398693
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 3 123
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 design.v|testbench.v|
+R6
+!i113 1
+R7
